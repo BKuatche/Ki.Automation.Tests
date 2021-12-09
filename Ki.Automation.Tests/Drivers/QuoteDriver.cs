@@ -39,7 +39,7 @@ namespace Ki.Automation.Tests.Drivers
         }
 
 
-        public void USerFillTheQuoteForm(Quote quote)
+        public void USerFillThePendingQuoteForm(Quote quote)
         {
             FillQuoteForm(quote);
         }

@@ -45,7 +45,7 @@ namespace Ki.Automation.Tests.Steps
         [When(@"user continue filling the quote form")]
         public void WhenUserContinueFillingTheQuoteForm()
         {
-            _quote.USerFillTheQuoteForm(_builder.CreateQuoteInstance);
+            _quote.USerFillThePendingQuoteForm(_builder.CreateQuoteInstance);
         }
 
 
