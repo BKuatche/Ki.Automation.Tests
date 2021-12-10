@@ -1,8 +1,5 @@
 # Ki.Automation.Tests
 
-
-# Codat.Automation.Tests
- 
 ### Prerequisites
 
 1. Download and install  the latest visual studio. Please see the link [Visual Studio]( https://visualstudio.microsoft.com/downloads/).
